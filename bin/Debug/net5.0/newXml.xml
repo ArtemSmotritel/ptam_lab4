@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <id>34</id>
+    <fullName>alex_eko</fullName>
+    <birthYear>2000</birthYear>
+    <universityEnterYear>2019</universityEnterYear>
+  </Student>
+  <Student>
+    <id>43</id>
+    <fullName>max_poko</fullName>
+    <birthYear>2000</birthYear>
+    <universityEnterYear>2019</universityEnterYear>
+  </Student>
+</ArrayOfStudent>
